@@ -64,9 +64,3 @@ Building this project helped me master several core React concepts:
 4.  Open `http://localhost:3000` (or the port shown in your terminal) in your browser.
 
 ---
-
-## 📜 Credits
-This project was built as part of the **React Course on Scrimba**. It served as a capstone project to practice hooks and state management.
-
----
-**Developed by [Your Name]** *Feel free to reach out for collaborations!*
