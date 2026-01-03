@@ -6,11 +6,6 @@ An interactive, fast-paced memory game built with **React.js**. This project cha
 
 ---
 
-## 📸 Preview
-*(Optional: Add a screenshot or GIF of your game here)*
-
----
-
 ## 📌 About the Project
 
 The Memory Game shuffles cards randomly at the start.  
